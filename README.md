@@ -1,3 +1,3 @@
 # Projeto-IDEA-Bot
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/ionic-ut1ujj)
+[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/Projeto-IDEA-Bot)
